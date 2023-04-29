@@ -42,11 +42,11 @@
     </div>
     </div>
     
-    <div align=center>
+  <div align=center>
         <h1>Contribution Activity</h1>
         <img align="center" width="47%" height="190" src="https://github-readme-stats.vercel.app/api?username=rewanhamed22&show_icons=true&theme=react"/>
         <img align="right" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewanhamed22&layout=compact&theme=react"/>
-</div>
+     </div>
 <br/>
 <div align=center>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rewanhamed22&theme=react&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="190" />
