@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on React Projects
+- 🌱 I’m currently learning at ITI 
+- 👯 I’m looking to collaborate on Front-End Projects
+- 📫 How to reach me: rewanhamed3@gmail.com
+- ⚡ Fun fact: ...
+
+
 <!--
 **rewanhamed22/rewanhamed22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
