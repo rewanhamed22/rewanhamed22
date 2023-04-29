@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning at ITI 
 - 👯 I’m looking to collaborate on Front-End Projects
 - 📫 How to reach me: rewanhamed3@gmail.com
-- ⚡ Fun fact: ...
 
 
 <!--
