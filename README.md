@@ -58,8 +58,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rewanhamed22&" alt="rewanhamed22" /></p> -->
 <br>
-<!-- <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p> -->
-![Snake animation](https://github.com/rewanhamed22/rewanhamed22/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/rewanhamed22/rewanhamed22/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p> 
