@@ -2,12 +2,12 @@
 
 
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)] -->
-<h1 align="center">Hi 👋, I'm Rewan Hamed</h1>
+<h1 align="center">Hi 👋, I'm Rewan Hamed 🐱‍💻</h1>
  <br>
 <div align="center"> <span>and I'm a</span> </div> 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4950&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=MERN+Developer;Front-End+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4950&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=MERN+Developer+💻;Front-End+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
  </div>
 <h3 align="center">A passionate Front-End Developer</h3> <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rewanhamed22&label=Profile%20views&color=0e75b6&style=flat" alt="rewanhamed22" /> </p>
