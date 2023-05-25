@@ -16,11 +16,11 @@
 
 <br/>
 <br/>
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on React Projects
 
-- 🌱 I’m currently learning **at ITI**
+- 🌱 I’m currently learning at ITI
 
-- 📫 How to reach me **rewanhamed3@gmail.com**
+- 📫 How to reach me rewanhamed3@gmail.com
  <br>
  <br>
 
