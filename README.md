@@ -44,8 +44,8 @@
     
   <div align=center>
         <h1>Contribution Activity</h1>
-<!--         <img align="center" width="47%" height="190" src="https://github-readme-stats.vercel.app/api?username=rewanhamed22&show_icons=true&theme=react"/> -->
-        <img  width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewanhamed22&layout=compact&theme=react"/>
+        <img align="center" width="47%" height="190" src="https://github-readme-stats.vercel.app/api?username=rewanhamed22&show_icons=true&theme=react"/>
+        <img align="right" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewanhamed22&layout=compact&theme=react"/>
      </div>
 <br/>
 <div align=center>
