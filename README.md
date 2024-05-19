@@ -18,7 +18,7 @@
 <br/>
 - 🔭 I’m currently working on React Projects
 
-- 🌱 I’m currently learning at ITI
+- 🌱 I graduated from ITI
 
 - 📫 How to reach me rewanhamed3@gmail.com
  <br>
@@ -54,7 +54,7 @@
 <br/>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rewanhamed22&show_icons=true&locale=en&layout=compact" alt="rewanhamed22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rewanhamed22&show_icons=true&locale=en" alt="rewanhamed22" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rewanhamed22&show_icons=true&locale=en" alt="rewanhamed22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rewanhamed22&" alt="rewanhamed22" /></p> -->
 <br>
