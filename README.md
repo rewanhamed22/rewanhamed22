@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4950&pause=1000&color=F7D433&center=true&vCenter=true&width=435&lines=MERN+Developer+💻;Front-End+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
  </div>
 <h3 align="center">A passionate Front-End Developer</h3> <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rewanhamed22i&label=Profile%20views&color=ff69b4&style=for-the-badge&abbreviated=true" alt="rewanhamed22" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rewanhamed22i&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="rewanhamed22" /> </p>
 
 <br/>
 <img align="right" alt="coding" width="500" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
